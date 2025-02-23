@@ -1,0 +1,13 @@
+{
+  "name": "Marocco",
+  "version": "1.0.0",
+  "description": "Maroko is CodeCademy course.",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BlockJakub/Marocco.git"
+  },
+  "keywords": ["Marocco", "HTML", "CSS", "web development"],
+  "author": "CodeCademy, Modifier BlockJakub",
+  "license": "MIT"
+}
